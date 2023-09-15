@@ -1,0 +1,137 @@
+PAGE :- 1           SAVITRIBAI PHULE PUNE UNIVERSITY ,S.E.(2019 CREDIT PAT.) EXAMINATION, APRIL/MAY 2021             DATE : 23 AUG 2021    
+COLLEGE: [CEGP014270] - DR. D.Y.PATIL INST. OF TECH. PUNE                
+BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)                  
+..................................................................................................................................
+
+SEAT NO.: S190243001 NAME : AASHUTOSH SANJAYRAO GUNTURKAR           MOTHER : SHITAL SANJAYRAO GUNTURKARPRN :71907142K CLG.: DYPIT[24]
+COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
+SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
+204181 ELECTRONIC CIRCUITS              030/030  046/070  076/100    ---      ---      ---    76   03     B   08  24  --- ---
+204182 DIGITAL CIRCUITS                 030/030  060/070  090/100    ---      ---      ---    90   03     O   10  30  --- ---
+204183 ELECTRICAL CIRCUITS              030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
+204184 DATA STRUCTURES                  028/030  070/070  098/100    ---      ---      ---    98   03     O   10  30  --- ---
+204185 ELECTRONIC CIRCUIT LAB             ---      ---      ---      ---    027/050    ---    54   01     D   06  06  --- ---
+204186 DIGITAL CIRCUITS LAB               ---      ---      ---      ---    036/050    ---    72   01     B   08  08  --- ---
+204187 ELECTRICAL CIRCUIT LAB             ---      ---      ---    020/025    ---      ---    80   01     A   09  09  --- ---
+204188 DATA STRUCTURES LAB                ---      ---      ---      ---      ---    018/025  72   01     B   08  08  --- ---
+204189 ELECTRONIC SKILL DEVELOPMENT       ---      ---      ---    021/025    ---      ---    84   01     A   09  09  --- ---
+207005 ENGINEERING MATHEMATICS III      030/030  031/070  061/100    ---      ---      ---    61   04     C   07  28  --- ---
+207005 ENGINEERING MATHEMATICS III        ---      ---      ---    021/025    ---      ---    84   01     A   09  09  --- ---
+204190A TECHNICAL ENGLISH FOR ENGG.        ---      ---      ---      ---      ---      ---    AC   00    AC   00  00  --- ---
+
+SEM.:2
+204191 SIGNALS & SYSTEMS              * 021/030  070/070  091/100    ---      ---      ---    91   03     O   10  30  --- ---
+204191 SIGNALS & SYSTEMS              *   ---      ---      ---    021/025    ---      ---    84   01     A   09  09  --- ---
+204192 CONTROL SYSTEMS                * 027/030  070/070  097/100    ---      ---      ---    97   03     O   10  30  --- ---
+204193 PRINCIPLES OF COMMU. SYSTEMS   * 030/030  069/070  099/100    ---      ---      ---    99   03     O   10  30  --- ---
+204194 OBJECT ORIENTED PROGRAMMING    * 027/030  070/070  097/100    ---      ---      ---    97   03     O   10  30  --- ---
+204195 SIGNALS & CONTROL SYSTEM LAB   *   ---      ---      ---    043/050    ---      ---    86   01     A   09  09  --- ---
+204196 PRINCIPLE OF COMMU. SYS. LAB   *   ---      ---      ---      ---    036/050    ---    72   01     B   08  08  --- ---
+204197 OOPS LAB                       *   ---      ---      ---      ---      ---    035/050  70   01     B   08  08  --- ---
+204198 DATA ANALYTICS LAB             *   ---      ---      ---      ---      ---    020/025  80   01     A   09  09  --- ---
+204199 EMPLOYABILITY SKILL DEV.       *   ---      ---      ---    039/050    ---      ---    78   03     B   08  24  --- ---
+204200 PROJECT BASED LEARNING         *   ---      ---      ---    041/050    ---      ---    82   02     A   09  18  --- ---
+204201C EMOTIONAL INTELLIGENCE         *   ---      ---      ---      ---      ---      ---    AC   00    AC   00  00  --- ---
+FIRST YEAR SGPA : 9, TOTAL CREDITS EARNED : 44
+............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
+
+SEAT NO.: S190243002 NAME : ADMANE PARTH SUDHIR                     MOTHER : RUPALI SUDHIR ADMANE     PRN :72022819M CLG.: DYPIT[24]
+COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
+SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
+204181 ELECTRONIC CIRCUITS              030/030  050/070  080/100    ---      ---      ---    80   03     A   09  27  --- ---
+204182 DIGITAL CIRCUITS                 030/030  069/070  099/100    ---      ---      ---    99   03     O   10  30  --- ---
+204183 ELECTRICAL CIRCUITS              030/030  066/070  096/100    ---      ---      ---    96   03     O   10  30  --- ---
+204184 DATA STRUCTURES                  030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
+204185 ELECTRONIC CIRCUIT LAB             ---      ---      ---      ---    030/050    ---    60   01     C   07  07  --- ---
+204186 DIGITAL CIRCUITS LAB               ---      ---      ---      ---    042/050    ---    84   01     A   09  09  --- ---
+204187 ELECTRICAL CIRCUIT LAB             ---      ---      ---    022/025    ---      ---    88   01     A   09  09  --- ---
+204188 DATA STRUCTURES LAB                ---      ---      ---      ---      ---    021/025  84   01     A   09  09  --- ---
+204189 ELECTRONIC SKILL DEVELOPMENT       ---      ---      ---    023/025    ---      ---    92   01     O   10  10  --- ---
+207005 ENGINEERING MATHEMATICS III      030/030  035/070  065/100    ---      ---      ---    65   04     C   07  28  --- ---
+207005 ENGINEERING MATHEMATICS III        ---      ---      ---    023/025    ---      ---    92   01     O   10  10  --- ---
+204190A TECHNICAL ENGLISH FOR ENGG.        ---      ---      ---      ---      ---      ---    AC   00    AC   00  00  --- ---
+
+SEM.:2
+204191 SIGNALS & SYSTEMS              * 024/030  070/070  094/100    ---      ---      ---    94   03     O   10  30  --- ---
+204191 SIGNALS & SYSTEMS              *   ---      ---      ---    023/025    ---      ---    92   01     O   10  10  --- ---
+204192 CONTROL SYSTEMS                * 030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
+204193 PRINCIPLES OF COMMU. SYSTEMS   * 030/030  053/070  083/100    ---      ---      ---    83   03     A   09  27  --- ---
+204194 OBJECT ORIENTED PROGRAMMING    * 030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
+204195 SIGNALS & CONTROL SYSTEM LAB   *   ---      ---      ---    047/050    ---      ---    94   01     O   10  10  --- ---
+204196 PRINCIPLE OF COMMU. SYS. LAB   *   ---      ---      ---      ---    035/050    ---    70   01     B   08  08  --- ---
+204197 OOPS LAB                       *   ---      ---      ---      ---      ---    036/050  72   01     B   08  08  --- ---
+204198 DATA ANALYTICS LAB             *   ---      ---      ---      ---      ---    023/025  92   01     O   10  10  --- ---
+204199 EMPLOYABILITY SKILL DEV.       *   ---      ---      ---    046/050    ---      ---    92   03     O   10  30  --- ---
+204200 PROJECT BASED LEARNING         *   ---      ---      ---    044/050    ---      ---    88   02     A   09  18  --- ---
+204201C EMOTIONAL INTELLIGENCE         *   ---      ---      ---      ---      ---      ---    AC   00    AC   00  00  --- ---
+FIRST YEAR SGPA : 9.32, TOTAL CREDITS EARNED : 44
+............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
+
+PAGE :- 2           SAVITRIBAI PHULE PUNE UNIVERSITY ,S.E.(2019 CREDIT PAT.) EXAMINATION, APRIL/MAY 2021             DATE : 23 AUG 2021    
+COLLEGE: [CEGP014270] - DR. D.Y.PATIL INST. OF TECH. PUNE                
+BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)                  
+..................................................................................................................................
+
+SEAT NO.: S190243003 NAME : ALKA GUPTA                              MOTHER : URMILA GUPTA             PRN :72022830B CLG.: DYPIT[24]
+COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
+SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
+204181 ELECTRONIC CIRCUITS              030/030  053/070  083/100    ---      ---      ---    83   03     A   09  27  --- ---
+204182 DIGITAL CIRCUITS                 030/030  064/070  094/100    ---      ---      ---    94   03     O   10  30  --- ---
+204183 ELECTRICAL CIRCUITS              030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
+204184 DATA STRUCTURES                  030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
+204185 ELECTRONIC CIRCUIT LAB             ---      ---      ---      ---    038/050    ---    76   01     B   08  08  --- ---
+204186 DIGITAL CIRCUITS LAB               ---      ---      ---      ---    045/050    ---    90   01     O   10  10  --- ---
+204187 ELECTRICAL CIRCUIT LAB             ---      ---      ---    023/025    ---      ---    92   01     O   10  10  --- ---
+204188 DATA STRUCTURES LAB                ---      ---      ---      ---      ---    021/025  84   01     A   09  09  --- ---
+204189 ELECTRONIC SKILL DEVELOPMENT       ---      ---      ---    023/025    ---      ---    92   01     O   10  10  --- ---
+207005 ENGINEERING MATHEMATICS III      030/030  038/070  068/100    ---      ---      ---    68   04     C   07  28  --- ---
+207005 ENGINEERING MATHEMATICS III        ---      ---      ---    024/025    ---      ---    96   01     O   10  10  --- ---
+204190A TECHNICAL ENGLISH FOR ENGG.        ---      ---      ---      ---      ---      ---    AC   00    AC   00  00  --- ---
+
+SEM.:2
+204191 SIGNALS & SYSTEMS              * 028/030  070/070  098/100    ---      ---      ---    98   03     O   10  30  --- ---
+204191 SIGNALS & SYSTEMS              *   ---      ---      ---    023/025    ---      ---    92   01     O   10  10  --- ---
+204192 CONTROL SYSTEMS                * 030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
+204193 PRINCIPLES OF COMMU. SYSTEMS   * 030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
+204194 OBJECT ORIENTED PROGRAMMING    * 030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
+204195 SIGNALS & CONTROL SYSTEM LAB   *   ---      ---      ---    046/050    ---      ---    92   01     O   10  10  --- ---
+204196 PRINCIPLE OF COMMU. SYS. LAB   *   ---      ---      ---      ---    041/050    ---    82   01     A   09  09  --- ---
+204197 OOPS LAB                       *   ---      ---      ---      ---      ---    042/050  84   01     A   09  09  --- ---
+204198 DATA ANALYTICS LAB             *   ---      ---      ---      ---      ---    021/025  84   01     A   09  09  --- ---
+204199 EMPLOYABILITY SKILL DEV.       *   ---      ---      ---    046/050    ---      ---    92   03     O   10  30  --- ---
+204200 PROJECT BASED LEARNING         *   ---      ---      ---    046/050    ---      ---    92   02     O   10  20  --- ---
+204201C EMOTIONAL INTELLIGENCE         *   ---      ---      ---      ---      ---      ---    AC   00    AC   00  00  --- ---
+FIRST YEAR SGPA : 9.52, TOTAL CREDITS EARNED : 44
+............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
+
+SEAT NO.: S190243004 NAME : AMUP AKASH HANUMANT                     MOTHER : AMUP SAVITA HANUMANT     PRN :72022834E CLG.: DYPIT[24]
+COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
+SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
+204181 ELECTRONIC CIRCUITS              030/030  032/070  062/100    ---      ---      ---    62   03     C   07  21  --- ---
+204182 DIGITAL CIRCUITS                 030/030  055/070  085/100    ---      ---      ---    85   03     A   09  27  --- ---
+204183 ELECTRICAL CIRCUITS              030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
+204184 DATA STRUCTURES                  030/030  069/070  099/100    ---      ---      ---    99   03     O   10  30  --- ---
+204185 ELECTRONIC CIRCUIT LAB             ---      ---      ---      ---    033/050    ---    66   01     C   07  07  --- ---
+204186 DIGITAL CIRCUITS LAB               ---      ---      ---      ---    040/050    ---    80   01     A   09  09  --- ---
+204187 ELECTRICAL CIRCUIT LAB             ---      ---      ---    022/025    ---      ---    88   01     A   09  09  --- ---
+204188 DATA STRUCTURES LAB                ---      ---      ---      ---      ---    018/025  72   01     B   08  08  --- ---
+204189 ELECTRONIC SKILL DEVELOPMENT       ---      ---      ---    022/025    ---      ---    88   01     A   09  09  --- ---
+207005 ENGINEERING MATHEMATICS III      030/030  034/070  064/100    ---      ---      ---    64   04     C   07  28  --- ---
+207005 ENGINEERING MATHEMATICS III        ---      ---      ---    022/025    ---      ---    88   01     A   09  09  --- ---
+204190A TECHNICAL ENGLISH FOR ENGG.        ---      ---      ---      ---      ---      ---    AC   00    AC   00  00  --- ---
+
+SEM.:2
+204191 SIGNALS & SYSTEMS              * 025/030  070/070  095/100    ---      ---      ---    95   03     O   10  30  --- ---
+204191 SIGNALS & SYSTEMS              *   ---      ---      ---    022/025    ---      ---    88   01     A   09  09  --- ---
+204192 CONTROL SYSTEMS                * 030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
+204193 PRINCIPLES OF COMMU. SYSTEMS   * 030/030  070/070  100/100    ---      ---      ---   100   03     O   10  30  --- ---
+204194 OBJECT ORIENTED PROGRAMMING    * 030/030  062/070  092/100    ---      ---      ---    92   03     O   10  30  --- ---
+204195 SIGNALS & CONTROL SYSTEM LAB   *   ---      ---      ---    045/050    ---      ---    90   01     O   10  10  --- ---
+204196 PRINCIPLE OF COMMU. SYS. LAB   *   ---      ---      ---      ---    040/050    ---    80   01     A   09  09  --- ---
+204197 OOPS LAB                       *   ---      ---      ---      ---      ---    040/050  80   01     A   09  09  --- ---
+204198 DATA ANALYTICS LAB             *   ---      ---      ---      ---      ---    022/025  88   01     A   09  09  --- ---
+204199 EMPLOYABILITY SKILL DEV.       *   ---      ---      ---    044/050    ---      ---    88   03     A   09  27  --- ---
+204200 PROJECT BASED LEARNING         *   ---      ---      ---    044/050    ---      ---    88   02     A   09  18  --- ---
+204201C EMOTIONAL INTELLIGENCE         *   ---      ---      ---      ---      ---      ---    AC   00    AC   00  00  --- ---
+FIRST YEAR SGPA : 9.05, TOTAL CREDITS EARNED : 44
+............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
