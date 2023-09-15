@@ -2,7 +2,6 @@ PAGE :- 1           SAVITRIBAI PHULE PUNE UNIVERSITY ,S.E.(2019 CREDIT PAT.) EXA
 COLLEGE: [CEGP014270] - DR. D.Y.PATIL INST. OF TECH. PUNE                
 BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)                  
 ..................................................................................................................................
-
 SEAT NO.: S190243001 NAME : AASHUTOSH SANJAYRAO GUNTURKAR           MOTHER : SHITAL SANJAYRAO GUNTURKARPRN :71907142K CLG.: DYPIT[24]
 COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
@@ -18,7 +17,6 @@ SEM.:1       ............                  .......  .......  .......  .......  .
 207005 ENGINEERING MATHEMATICS III      030/030  031/070  061/100    ---      ---      ---    61   04     C   07  28  --- ---
 207005 ENGINEERING MATHEMATICS III        ---      ---      ---    021/025    ---      ---    84   01     A   09  09  --- ---
 204190A TECHNICAL ENGLISH FOR ENGG.        ---      ---      ---      ---      ---      ---    AC   00    AC   00  00  --- ---
-
 SEM.:2
 204191 SIGNALS & SYSTEMS              * 021/030  070/070  091/100    ---      ---      ---    91   03     O   10  30  --- ---
 204191 SIGNALS & SYSTEMS              *   ---      ---      ---    021/025    ---      ---    84   01     A   09  09  --- ---
@@ -34,7 +32,6 @@ SEM.:2
 204201C EMOTIONAL INTELLIGENCE         *   ---      ---      ---      ---      ---      ---    AC   00    AC   00  00  --- ---
 FIRST YEAR SGPA : 9, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
-
 SEAT NO.: S190243002 NAME : ADMANE PARTH SUDHIR                     MOTHER : RUPALI SUDHIR ADMANE     PRN :72022819M CLG.: DYPIT[24]
 COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
@@ -50,7 +47,6 @@ SEM.:1       ............                  .......  .......  .......  .......  .
 207005 ENGINEERING MATHEMATICS III      030/030  035/070  065/100    ---      ---      ---    65   04     C   07  28  --- ---
 207005 ENGINEERING MATHEMATICS III        ---      ---      ---    023/025    ---      ---    92   01     O   10  10  --- ---
 204190A TECHNICAL ENGLISH FOR ENGG.        ---      ---      ---      ---      ---      ---    AC   00    AC   00  00  --- ---
-
 SEM.:2
 204191 SIGNALS & SYSTEMS              * 024/030  070/070  094/100    ---      ---      ---    94   03     O   10  30  --- ---
 204191 SIGNALS & SYSTEMS              *   ---      ---      ---    023/025    ---      ---    92   01     O   10  10  --- ---
@@ -66,12 +62,10 @@ SEM.:2
 204201C EMOTIONAL INTELLIGENCE         *   ---      ---      ---      ---      ---      ---    AC   00    AC   00  00  --- ---
 FIRST YEAR SGPA : 9.32, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
-
 PAGE :- 2           SAVITRIBAI PHULE PUNE UNIVERSITY ,S.E.(2019 CREDIT PAT.) EXAMINATION, APRIL/MAY 2021             DATE : 23 AUG 2021    
 COLLEGE: [CEGP014270] - DR. D.Y.PATIL INST. OF TECH. PUNE                
 BRANCH CODE:  16-S.E.(2019 PAT.)(ELECTRONICS &TELECOM)                  
 ..................................................................................................................................
-
 SEAT NO.: S190243003 NAME : ALKA GUPTA                              MOTHER : URMILA GUPTA             PRN :72022830B CLG.: DYPIT[24]
 COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
@@ -87,7 +81,6 @@ SEM.:1       ............                  .......  .......  .......  .......  .
 207005 ENGINEERING MATHEMATICS III      030/030  038/070  068/100    ---      ---      ---    68   04     C   07  28  --- ---
 207005 ENGINEERING MATHEMATICS III        ---      ---      ---    024/025    ---      ---    96   01     O   10  10  --- ---
 204190A TECHNICAL ENGLISH FOR ENGG.        ---      ---      ---      ---      ---      ---    AC   00    AC   00  00  --- ---
-
 SEM.:2
 204191 SIGNALS & SYSTEMS              * 028/030  070/070  098/100    ---      ---      ---    98   03     O   10  30  --- ---
 204191 SIGNALS & SYSTEMS              *   ---      ---      ---    023/025    ---      ---    92   01     O   10  10  --- ---
@@ -103,7 +96,6 @@ SEM.:2
 204201C EMOTIONAL INTELLIGENCE         *   ---      ---      ---      ---      ---      ---    AC   00    AC   00  00  --- ---
 FIRST YEAR SGPA : 9.52, TOTAL CREDITS EARNED : 44
 ............CONFIDENTIAL- FOR VERIFICATION AND RECORD ONLY AT COLLEGE, NOT FOR DISTRIBUTION.......................................
-
 SEAT NO.: S190243004 NAME : AMUP AKASH HANUMANT                     MOTHER : AMUP SAVITA HANUMANT     PRN :72022834E CLG.: DYPIT[24]
 COURSE NAME                      ISE      ESE     TOTAL      TW       PR       OR    Tot% Crd  Grd   GP  CP  P&R ORD
 SEM.:1       ............                  .......  .......  .......  .......  .......  .......  ...  ...  ...  ... ...  ... ...
@@ -119,7 +111,6 @@ SEM.:1       ............                  .......  .......  .......  .......  .
 207005 ENGINEERING MATHEMATICS III      030/030  034/070  064/100    ---      ---      ---    64   04     C   07  28  --- ---
 207005 ENGINEERING MATHEMATICS III        ---      ---      ---    022/025    ---      ---    88   01     A   09  09  --- ---
 204190A TECHNICAL ENGLISH FOR ENGG.        ---      ---      ---      ---      ---      ---    AC   00    AC   00  00  --- ---
-
 SEM.:2
 204191 SIGNALS & SYSTEMS              * 025/030  070/070  095/100    ---      ---      ---    95   03     O   10  30  --- ---
 204191 SIGNALS & SYSTEMS              *   ---      ---      ---    022/025    ---      ---    88   01     A   09  09  --- ---
