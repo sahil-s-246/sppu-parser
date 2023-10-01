@@ -74,7 +74,7 @@ To set up a virtual environment and run the `.ipynb` file from the repository `h
 
 6. **Run the Jupyter Notebook:**
 
-   After successfully setting up the virtual environment and installing dependencies, you can run the Jupyter Notebook file (`.ipynb`). Assuming the notebook is named `your_notebook.ipynb`, run the following command:
+   After successfully setting up the virtual environment and installing dependencies, you can run the Jupyter Notebook file (`.ipynb`). Assuming the notebook is named `your_notebook.ipynb`, run the following command, or use the vscode extension for jupyter notebooks to run the notebook:
 
    ```bash
    jupyter notebook your_notebook.ipynb
