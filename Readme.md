@@ -1,4 +1,4 @@
-# Hacktoberfest 23
+# Sppu Parser (Hacktoberfest 23)
 
 ## **Project Overview**
 
