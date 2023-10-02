@@ -17,3 +17,9 @@ Develop a Python program that can automatically parse the PDF files provided by 
 Create a data pipeline that processes the parsed data to derive insights and generate graphs or visualizations to facilitate a better understanding of the academic performance of students.
 
 Visit the [Project Wiki](https://github.com/notcostheta/sppu-parser/wiki/Project-Setup) to setup your local environment and get started with the project.
+
+## **Todo List**
+- [ ] Make the project colab-notebook friendly
+- [ ] Add a open in colab button
+- [ ] Write the documentation for the logic that parses the PDF
+- [ ] Prepare a data model for the data to be parsed
