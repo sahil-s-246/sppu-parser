@@ -23,3 +23,7 @@ Visit the [Project Wiki](https://github.com/notcostheta/sppu-parser/wiki/Project
 - [ ] Add a open in colab button
 - [ ] Write the documentation for the logic that parses the PDF
 - [ ] Prepare a data model for the data to be parsed
+
+## Contibutors
+<!-- readme: collaborators,contributors -start -->
+<!-- readme: collaborators,contributors -end -->
