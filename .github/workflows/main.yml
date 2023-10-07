@@ -11,9 +11,9 @@ jobs:
     name: A job to automate contrib in readme
     steps:
       - name: Contribute List
-        uses: akhilmhdh/contributors-readme-action@v2.3.6
+        uses: akhilmhdh/contributors-readme-action@v2.3.5
         with:
-          use_username: true
+          use_username: false
           auto_detect_branch_protection: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
