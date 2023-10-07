@@ -26,4 +26,28 @@ Visit the [Project Wiki](https://github.com/notcostheta/sppu-parser/wiki/Project
 
 ## Contibutors
 <!-- readme: collaborators,contributors -start -->
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/sahil-s-246">
+            <img src="https://avatars.githubusercontent.com/u/97866494?v=4" width="100;" alt="sahil-s-246"/>
+            <br />
+            <sub><b>Sahil Srinivas</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/notcostheta">
+            <img src="https://avatars.githubusercontent.com/u/96881080?v=4" width="100;" alt="notcostheta"/>
+            <br />
+            <sub><b>Kaustubh Bhiwsankar</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/atharvawho">
+            <img src="https://avatars.githubusercontent.com/u/144663394?v=4" width="100;" alt="atharvawho"/>
+            <br />
+            <sub><b>Atharva Chougale</b></sub>
+        </a>
+    </td></tr>
+</table>
 <!-- readme: collaborators,contributors -end -->
